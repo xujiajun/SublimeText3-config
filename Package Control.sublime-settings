@@ -1,0 +1,26 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Blade Snippets",
+		"Emmet",
+		"Git",
+		"Insert Callback",
+		"JsFormat",
+		"JSHint",
+		"Laravel Blade Highlighter",
+		"Laravel Forms Bootstrap Snippets",
+		"LESS",
+		"Package Control",
+		"Phpcs",
+		"PhpNamespace",
+		"SideBarEnhancements",
+		"SimplePHPUnit",
+		"sublimelint",
+		"SublimeLinter-php",
+		"Twig"
+	]
+}

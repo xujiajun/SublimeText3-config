@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"font_size": 15,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
+	"php_cs_fixer_show_quick_panel": true,
+	"show_debug": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"translate_tabs_to_spaces": true
+}
